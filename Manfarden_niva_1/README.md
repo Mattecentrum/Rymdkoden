@@ -1,12 +1,12 @@
-## Rubrik
+﻿## Rubrik
 **fet text** 
 
 Länk:
 <a href="https://scratch.mit.edu/projects/282942221/" target="_blank">https://scratch.mit.edu/projects/282942221/</a>
 
-Länka till bild:
+Visa en bild:
 
-![](./BILDNAMN.png)
+![](./obviuse-logo.png)
 
 Få till en video:
 

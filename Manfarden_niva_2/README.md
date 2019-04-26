@@ -1,18 +1,24 @@
-# Rubrik 1
+## FÃ¶rsta rubrik
 **fet text** 
 
-Länk:
+LÃ¤nk:
 <a href="https://scratch.mit.edu/projects/282942221/" target="_blank">https://scratch.mit.edu/projects/282942221/</a>
 
-Länka till bild:
+LÃ¤nka till bild:
 
 ![](./BILDNAMN.png)
 
-Få till en video:
+FÃ¥ till en video:
 
 <video src="./1_3.mp4" autoplay loop muted />
 
-FÅ en tipsruta -> Börja med >
+FÃ… en tipsruta -> BÃ¶rja med >
 
-## Rubrik 2
+----
+## Rubrik 2 (Steg 2)
+### Rubrik 3
+
+
+----
+## Rubrik 2 (steg 3)
 ### Rubrik 3

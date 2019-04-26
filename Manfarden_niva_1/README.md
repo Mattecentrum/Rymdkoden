@@ -8,9 +8,13 @@ Eller visa en bild:
 
 ![](./obviuse-logo.png)
 
-Få till en video:
+Få till en video utan ljud:
 
-<video src="./a-video-file.mp4" autoplay loop muted />
+<video src="./a-video-file.mp4" autoplay loop muted controls />
+
+Eller en med ljud... =D
+
+<video src="./a-video-file.mp4" autoplay loop controls />
 
 FÅ en tipsruta -> Börja med >
 

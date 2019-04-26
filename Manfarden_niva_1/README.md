@@ -1,20 +1,22 @@
-﻿## Rubrik
-**fet text** 
+﻿## Välkommen till inledningen
+Här kan man skriva saker, även med **fet text** 
 
-Länk:
+Man kan skapa en länk:
 <a href="https://scratch.mit.edu/projects/282942221/" target="_blank">https://scratch.mit.edu/projects/282942221/</a>
 
-Visa en bild:
+Eller visa en bild:
 
 ![](./obviuse-logo.png)
 
 Få till en video:
 
-<video src="./1_3.mp4" autoplay loop muted />
+<video src="./a-video-file.mp4" autoplay loop muted />
 
 FÅ en tipsruta -> Börja med >
 
+Strecken här ger nytt kapitel:
 ----
+
 ## Rubrik Steg 2
 ### Rubrik 3
 
